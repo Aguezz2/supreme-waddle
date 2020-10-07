@@ -4,6 +4,6 @@
 
 - Bunga
 
-  - Membuat file *MySQL.php*.
+  - Membuat file *MySQL.php*. (done)
   - Membuat class dengan nama ```MySQL```.
   - Buat fungsi getConnection yang me-return koneksi database.
